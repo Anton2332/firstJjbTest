@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9306abd7-548c-487f-9f61-f59d4fcc06c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfNames/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669540727145</updated>
-      <workItem from="1669540758721" duration="896000" />
+      <workItem from="1669540758721" duration="2003000" />
     </task>
     <servers />
   </component>
