@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9306abd7-548c-487f-9f61-f59d4fcc06c9" name="Changes" comment="last commit">
-      <change beforePath="$PROJECT_DIR$/listOfName/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/listOfName/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="9306abd7-548c-487f-9f61-f59d4fcc06c9" name="Changes" comment="last bug fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1669547954585" duration="4343000" />
       <workItem from="1669576736828" duration="2280000" />
       <workItem from="1669612691157" duration="26500000" />
-      <workItem from="1669658229221" duration="89000" />
+      <workItem from="1669658229221" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="add new app&#10;in this app add models and migrated">
       <created>1669542889278</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669657402164</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="last bug fix">
+      <created>1669658535762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669658535762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new app&#10;in this app add models and migrated" />
     <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="last bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="last bug fix" />
   </component>
 </project>

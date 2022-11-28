@@ -1,3 +1,5 @@
+I spent 18 hours on this task
+
 Open your terminal and then type
 
 $ git clone https://github.com/Anton2332/firstJjbTest.git
