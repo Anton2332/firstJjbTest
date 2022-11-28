@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+  min-height: calc(100vh - 250px);
+}
+footer {
+  height: 50px;
+}
