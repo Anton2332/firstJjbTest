@@ -37,7 +37,7 @@ class RankViewSet(viewsets.ViewSet):
                     Rank.objects.create(name_id=name.pk, rankNumber=counter, user_id=request.user.id)
                 counter += 1
 
-        filtered = self.queryset.filter(user_id=request.user.id)
+        filtered = self.queryset.filter(user_id=request.user.id).order_by('rankNumber')
         serializer = self.serializer_class(filtered, many=True)
         return Response(serializer.data)
 
