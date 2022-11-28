@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9306abd7-548c-487f-9f61-f59d4fcc06c9" name="Changes" comment="add new app&#10;in this app add models and migrated">
-      <change afterPath="$PROJECT_DIR$/listOfName/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listOfName/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/API/axios/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/API/nameService.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/API/rankService.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/API/userService.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/hooks/useAction.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/hooks/useFetching.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/hooks/useTypeSelector.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/INameResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/IRankResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/IUserLoginResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/IUserRefreshResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/IUserRegisterRequest.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/models/IUserRegisterResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/LoginPage/LoginPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/MainPage/MainPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/NotAuthorizeUserPage/UserNotLoginPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/RegisterPage/RegisterPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/pages/header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/router/AppRoutes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/router/routes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/loginUser/loginUserActions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/loginUser/loginUserReducer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/loginUser/types.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/name/nameActions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/name/nameReducer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/name/types.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/rank/rankActions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/rank/rankReducer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/reducers/rank/types.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/rootActions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/rootReducers.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/store/store.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/utils/Loader.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfName/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/listOfName/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfName/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/listOfName/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listOfName/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/listOfName/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/serializer.py" afterDir="false" />
-    </list>
+    <list default="true" id="9306abd7-548c-487f-9f61-f59d4fcc06c9" name="Changes" comment="last commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +69,7 @@
       <workItem from="1669547765025" duration="27000" />
       <workItem from="1669547954585" duration="4343000" />
       <workItem from="1669576736828" duration="2280000" />
-      <workItem from="1669612691157" duration="26070000" />
+      <workItem from="1669612691157" duration="26500000" />
     </task>
     <task id="LOCAL-00001" summary="add new app&#10;in this app add models and migrated">
       <created>1669542889278</created>
@@ -123,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669542889278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="last commit">
+      <created>1669657402164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669657402164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new app&#10;in this app add models and migrated" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new app&#10;in this app add models and migrated" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
   </component>
 </project>
